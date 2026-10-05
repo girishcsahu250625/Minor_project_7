@@ -1,2 +1,2 @@
 # Minor_project_7
-Market Basket Analysis of frequent itemsets using Pandas &amp; Matplotlib. Features parsing of frozenset data, transaction support calculation, and distribution analysis across itemset sizes (1-5 items). Highlights key consumer purchase patterns like popular grocery pairs (e.g., Bread &amp; Milk) and staple meal combinations (Rice, Oil, Dal).
+Market Basket Analysis on QuickCart's 5,000 grocery baskets using Apriori and FP-Growth algorithms. Features transaction data reshaping, support and confidence calculations, and rule filtering by lift. Mined 256 frequent itemsets and identified key co-purchase patterns (e.g., Bread & Milk, Chips & Cola) for cross-selling and bundling.
